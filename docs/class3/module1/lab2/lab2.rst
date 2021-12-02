@@ -44,7 +44,7 @@ Deploy an AKS in Azure
     terraform plan
     terraform apply
 
-* Get your kubeconfig file from yoru Azure AKS : 
+* Get your kubeconfig file from your Azure AKS : 
 
   .. code-block:: Terminal
 
